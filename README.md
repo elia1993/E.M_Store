@@ -12,3 +12,7 @@ After login successful - Welcoming message with the user name in the navbar.
 ![image](https://github.com/elia1993/E.M_Store/assets/77536857/d30c47cc-9743-4d75-b074-0fcf14b89d7b)
 register page
 ![image](https://github.com/elia1993/E.M_Store/assets/77536857/6ef07609-2580-4eb9-9ccc-0955837363f1)
+The cart page
+![image](https://github.com/elia1993/E.M_Store/assets/77536857/e24fc207-c568-4fff-9aff-36bf88acb1d9)
+After removing 1 product
+![image](https://github.com/elia1993/E.M_Store/assets/77536857/5c80d800-6624-4c71-8bc6-50af598b5b9c)
