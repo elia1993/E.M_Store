@@ -1,4 +1,4 @@
-It's my mobile store website where customers can register, login, and add items to their cart.
+It's my phone store website where customers can register, login, and add items to their cart.
 Customers have the option to add or remove items from the cart.
 
 HomePage
